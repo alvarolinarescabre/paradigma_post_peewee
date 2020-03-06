@@ -1,2 +1,3 @@
-# paradigma_post_peewee
-Repo del Post del Blog de Paradigma sobre PeeWee
+Post del Blog de Paradigma - PeeWee
+
+Realizar un CRUD sencillo con el módulo ORM "ligero" llamado PeeWee
